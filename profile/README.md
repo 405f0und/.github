@@ -44,7 +44,7 @@ The goal here is to demonstrate a repeatable, efficient system for integrating n
 
 ### Presentations
 
-[SlideShow]()
+[SlideShow](https://docs.google.com/presentation/d/1zmxowBter6J1kJP3ijulRlkOrP-mnWauqEHvtknU68E/edit?usp=sharing)
 
 [Video]()
 
