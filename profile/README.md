@@ -1,8 +1,11 @@
 <br>
 
-## Welcome to the 405f0und Team Github Organization!
+## Welcome to the 405F0UND Team Github Organization!
 
-This Organization is for team 405f0und's final group project for ops-301d8. Here you will find an overview of the project scenario and problem domain. There are three repositories for this organization. We have a Documentations repository, where you will find all the documentation that is part of this project. The Scripts repository contains our scripts we used for this project. The presentations repository contains a pdf of our slideshow as well as a link to the slideshow on GoogleDocs. The video of our presentation will be added to that repository once it is available.
+This Organization is for team 405Found's final group project for class ops-301d8 in the IT Ops/Cybersecurity program at Code Fellows. Firstly, there is an overview of the project scenario and summary of the problem domain. Project documentation consists of three different repositories. 
+   - We have a Documentations repository, where you will find all the documentation that is part of this project.
+   - The Scripts repository contains our scripts we used for this project.
+   - The presentations repository contains a pdf of our slideshow as well as a link to the slideshow on GoogleDocs. The video of our presentation will be added to that repository once it is available.
 
 
 *Below you will find information and links for our members, repositories and any related resources and material.*
