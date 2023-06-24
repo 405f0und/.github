@@ -3,9 +3,9 @@
 ## Welcome to the 405F0UND Team Github Organization!
 
 This Organization is for team's (405 Found) final group project for class ops-301d8 in the IT Ops/Cybersecurity program at [Code Fellows](https://www.codefellows.org/). First, there is an overview of the project scenario and summary of the problem domain. After that, our team members are listed with links to their individual [LinkedIn](https://www.linkedin.com/?original_referer=) profiles and [GitHub](https://github.com) repositories. Next is a link to the team's project management board in [Trello](https://trello.com), followed by the presentation links. Finally. there are links to our project's three three repositories: 
-- **Documentations:** Contains all the documentation that is part of this project, including topograpies, flowcharts ann the standard operating procedures that we wrote as part of the project client's solutions. 
-- **Presentation:** Contains a .pdf copy of the slide deck we used to present our solutions and a link to the original document in Google Docs
-- **Scripts:** presentations repository contains a pdf of our slideshow as well as a link to the slideshow on GoogleDocs. The video of our presentation will be added to that repository once it is available.
+- **Documentation:** Contains all the documentation that is part of this project, including topograpies, flowcharts and the standard operating procedures we wrote as part of the project client's solutions. 
+- **Presentation:** Contains a .pdf copy of the slide deck we used to present our solutions and a link to the original document in Google Docs. Also, a link to the final presentation video. 
+- **Scripts:** Contains a coding script that was written to automate the process of importing employee information into Microsoft Active Directory from a .csv file and use it to set up new user accounts. 
 
 <br>
 
@@ -24,7 +24,7 @@ Below, in italics, is the scenario and basic direction provided by our instructi
 As a team, we identified the following challenges within the problem domain for IT:
 - Plans to acquire a new company with further plans to make additional acquisitions in the near future. This requires solutions that are both efficient and recylable.
 - Quickly and efficiently incorporate employees from new subsidiary companies into the existing IT governance (ITG) framework to address authentication, authorization and accounting (AAA). 
-- Securely joining the IT networks that newly acquired companies have in place to the existing corporate domain and cloud-based network resources via virtual private network (VPN). 
+- Securely join the IT networks that newly acquired companies have in place to the existing corporate domain and cloud-based network resources via virtual private networks (VPN). 
 
 The resources contained within the links below present the solutions we came up with to address these challenges. 
 
