@@ -38,7 +38,7 @@ Thanks for visiting our page and we hope browsing through our project files.
 
 | Chris Bennett | Dustin Haggett | Jonathan McMullin | Raheem Reed |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
-| [Linkedin]() | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/jon-mcmullin-cybersecurity/) | [Linkedin]() |
+| [[Linkedin]()](https://www.linkedin.com/in/chris-bennett-cybersecurity/) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/jon-mcmullin-cybersecurity/) | [[Linkedin]()](https://www.linkedin.com/in/raheem-reed-8a7649183/) |
 | [Github](https://github.com/marsecguy) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/mcmullinj84) | [Github](https://github.com/reedraheem) | [Linkedin](https://www.linkedin.com/in/raheem-reed-8a7649183/)
 
 
