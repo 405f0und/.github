@@ -29,7 +29,8 @@ The goal here is to demonstrate a repeatable, efficient system for integrating n
 | Chris Bennett | Dustin Haggett | Jonathan McMullin | Raheem Reed |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
 | [Linkedin]() | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/jon-mcmullin-cybersecurity/) | [Linkedin]() |
-| [Github](https://github.com/marsecguy) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/mcmullinj84) | (https://www.linkedin.com/in/raheem-reed-8a7649183/) [Github](https://github.com/reedraheem)
+| [Github](https://github.com/marsecguy) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/mcmullinj84) | 
+  [Linkedin](https://www.linkedin.com/in/raheem-reed-8a7649183/) [Github](https://github.com/reedraheem)
 
 
 <br>
